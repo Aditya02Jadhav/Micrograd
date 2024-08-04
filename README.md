@@ -39,9 +39,6 @@ Execute the Notebook Cells
 ## License
 This project is licensed under the [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) License - see the LICENSE file for details.
 
-
-## Acknowledgements
-
  - [Jupyter](https://jupyter.org/)
  - [NumPy](https://numpy.org/)
  - [Matplotlib](https://matplotlib.org/)
